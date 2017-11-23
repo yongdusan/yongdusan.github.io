@@ -9,7 +9,7 @@ subtitle:
 description:
 author:
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: ko
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
@@ -379,8 +379,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: yongsung_disqus
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
