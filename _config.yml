@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 
+url: https://yongdusan.github.io
 baseurl:
 permalink: pretty
 
@@ -83,7 +83,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -215,7 +215,8 @@ font:
 #social:
   #LinkLabel: Link
   GitHub: https://github.com/yongdusan
-
+  Linkedin: https://linkedin.com/in/yongsung_ahn
+  Facebook: https://facebook.com/yongsung.ahn
 
 # Social Links Icons
 # Icon Mapping:
@@ -227,8 +228,10 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  #Twitter: twitter
+  #Weibo: weibo
+  Linkedin: linkedin
+  Facebook: facebook-official
 
 
 # Sidebar Avatar
@@ -454,7 +457,7 @@ duoshuo_info:
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
   enable: true
-  app_id: 152716585347356       #<app_id>
+  app_id: 152716585347356   #<app_id>
   fb_admin: yongsung_ahn    #<user_id>
   like_button: true #true
   webmaster: true   #true
