@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 
+url: 'https://yongdusan.github.io'
 baseurl:
 permalink: pretty
 
@@ -118,7 +118,7 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  about: https://about.me/yongsung_ahn
+  about: "https://about.me/yongsung_ahn"
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
