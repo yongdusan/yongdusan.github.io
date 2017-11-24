@@ -7,7 +7,7 @@
 title: Yongsung's blog
 subtitle:
 description:
-author:
+author: yongsung_ahn
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -118,7 +118,7 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  about: /about/
+  about: /https://about.me/yongsung_ahn
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -225,7 +225,7 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
+  GitHub: https://github.com/yongdusan
   Twitter: twitter
   Weibo: weibo
 
@@ -316,7 +316,7 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: false
+  wordcount: true
   min2read: false
   separated_meta: true
 
@@ -380,7 +380,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: yongsung_disqus
+  shortname: "yongsung_disqus"
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -452,17 +452,17 @@ duoshuo_info:
 # Facebook SDK Support.
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
-  enable: false
-  app_id:       #<app_id>
-  fb_admin:     #<user_id>
-  like_button:  #true
-  webmaster:    #true
+  enable: true
+  app_id: 152716585347356       #<app_id>
+  fb_admin: yongsung_ahn    #<user_id>
+  like_button: true #true
+  webmaster: true   #true
 
 # Facebook comments plugin
 # This plugin depends on Facebook SDK.
 # If facebook_sdk.enable is false, Facebook comments plugin is unavailable.
 facebook_comments_plugin:
-  enable: false
+  enable: trun
   num_of_posts: 10  # min posts num is 1
   width: 100%       # default width is 550px
   scheme: light     # default scheme is light (light or dark)
