@@ -13,7 +13,7 @@ Edwith의 KAIST MOOC `영상이해를 위한 최적화 기법` (김창익 교수
 
 (Week01) Introduction to Optimization
 -------------------------------------
-![contents](/img/to/001.png)
+![contents](/img/001.png)
 ### Lecture 1. Introduction to Optimization
 #### 1. Optimization
 -	Optimization (최적화): 여러 대안 중 최선을 뽑아내는 것.
@@ -28,7 +28,7 @@ Edwith의 KAIST MOOC `영상이해를 위한 최적화 기법` (김창익 교수
 > 확률 분포에서 일어날 확률을 최대화 = 지수 부분(Energy)을 최소화
 
 #### 2. 비용 함수 f(x)
-![fx](/img/to/003.png)
+![fx](/img/003.png)
  - 비용함수 f(x)를 최소화 하는 x의 값을 찾는 것이 중요! f(x)의 최소값이 아님. 
  - 제약조건: feasible set(x의 집합) 을 정해주기 위함. 
   (ex. 출근 시간을 가장 짧게 하는 기상 시간이 몇시인지가 중요.)
