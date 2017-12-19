@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 layout: post 
 title: "Google Cloud Dataprep" 
 date: 2017-12-19 12:55:52 +0900 
@@ -7,7 +6,6 @@ categories:
 - GCP
 tags:
 - Cloud Dataprep
-
 ---
 
 ## Google Cloud Dataprep
